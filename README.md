@@ -5,9 +5,9 @@ Items to be included in the HW
 
 2)HeroesOfPymoli Folder
 
-   a)Jupiter Notebook file: HeroesOfPymoli_starter.ipynb
+        a)Jupiter Notebook file: HeroesOfPymoli_starter.ipynb
    
-   b)Resources Folder with the csv file:purchase_data.csv
+        b)Resources Folder with the csv file:purchase_data.csv
 
 
 
